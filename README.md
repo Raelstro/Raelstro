@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raelstro
 - 👀 I’m interested in ... Learning to code
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ...PYTHON
 - 💞️ I’m looking to collaborate on ... making anything
 - 📫 How to reach me ... email  Raeltommy13@live.com
 
